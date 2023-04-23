@@ -1,0 +1,13 @@
+chicken-broth,4.0
+chili,2.5
+mushroom,3.0
+spinach,1.2
+water,0.0
+tomato,2.0
+rice-wine,6.0
+noodles,3.0
+fancy-noodles,8.0
+carrot,2.0
+bok-choy,2.2
+chicken,3.0
+wine,5.0

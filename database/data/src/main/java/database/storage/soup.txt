@@ -1,0 +1,10 @@
+Mushroom-and-Spinach-Cream-Soup,10.0,mushroom,spinach,water
+Gardeners-Cream-Soup,12.5,mushroom,spinach,tomato,rice-wine,water
+Spinach-Tomato-Soup,12.5,spinach,tomato,wine,water
+Tomato-Soup,12.5,tomato,wine,water
+Noodle-Soup,17.8,chicken-broth,chicken,bok-choy,noodles,carrot
+Spicy-Noodle-Soup,23.5,chicken-broth,chili,bok-choy,fancy-noodles,carrot
+Chicken-Soup,12.0,chicken-broth,bok-choy,carrot
+Gardeners-Chicken-Soup,14.0,chicken-broth,bok-choy,carrot,wine
+Deluxe-Chicken-Soup,16.0,chicken-broth,bok-choy,carrot,rice-wine
+Secret-Ingredient-Soup,18.0,chicken-broth,bok-choy,tomato,carrot,rice-wine

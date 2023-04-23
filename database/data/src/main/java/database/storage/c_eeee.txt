@@ -1,0 +1,5 @@
+Mushroom-and-Spinach-Cream-Soup,10.0,1,
+Mushroom-and-Spinach-Cream-Soup,10.0,1,
+Mushroom-and-Spinach-Cream-Soup,9.0,1,
+Gardeners-Chicken-Soup,14.0,1,
+Deluxe-Chicken-Soup,16.0,1,
